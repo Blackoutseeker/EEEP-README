@@ -92,4 +92,9 @@ Agora é possível pegar livros emprestados de forma digital! Possibilitando aco
 
 <br><br>
 
+
+#### Consulte o ![Manual do Usuário](https://github.com/Blackoutseeker/EEEP-README/blob/master/Manual%20do%20Usu%C3%A1rio.pdf) para conferir todas as funcionalidades do app.
+
+<br><br>
+
 > © 2020 Felip's Tudio. Todos os direitos reservados.
