@@ -4,6 +4,15 @@
 <img src="https://user-images.githubusercontent.com/56811005/85471598-0a862f80-b587-11ea-946c-d8bad7398296.png" height="250" />
 </p>
 
+<p align="center" >
+  
+![](https://img.shields.io/badge/vers%C3%A3o-v1.2.8-%230066ff)
+![](https://img.shields.io/badge/react--native--cli-v2.0.1-red)
+![](https://img.shields.io/badge/node-v12.14.0-green)
+
+</p>
+<br><br>
+
 > Idealizado por: Cleomar
 
 > Desenvolvido por: Felipe Pereira de Souza Silva
