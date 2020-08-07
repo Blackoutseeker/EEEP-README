@@ -6,7 +6,7 @@
 
 <p align="center" >
   
-![](https://img.shields.io/badge/vers%C3%A3o-v1.2.8-%230066ff)
+![](https://img.shields.io/badge/vers%C3%A3o-1.3.3-%230066ff)
 ![](https://img.shields.io/badge/react--native--cli-v2.0.1-red)
 ![](https://img.shields.io/badge/node-v12.14.0-green)
 ![](https://img.shields.io/badge/expo%20SDK-v37-blue)
@@ -21,7 +21,7 @@
 > OBS: Este app é destinado aos alunos da escola E.E.E.P. Irmã Ana Zélia da Fonseca.
 <br>
 
-Agora é possível pegar livros emprestados de forma digital! Possibilitando acompanhar a data de entrega, fazer renovações, acessar apostilas, cadastrar novos livros e visualizar entregas pendentes.
+### Agora é possível pegar livros emprestados de forma digital, e baixar livros! Possibilitando acompanhar a data de entrega, fazer renovações, acessar apostilas, escrever resenhas, avaliar livros, adicionar novos livros e visualizar devoluções pendentes!
 <br>
 
 ### Plataformas:
@@ -35,7 +35,7 @@ Agora é possível pegar livros emprestados de forma digital! Possibilitando aco
 
 |Tema padrão|Tema escuro|
 |-----------|-----------|
-|<img src="https://user-images.githubusercontent.com/56811005/85477589-fcd5a780-b590-11ea-98df-49a424c70b2f.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/85478013-d6fcd280-b591-11ea-9743-1acc2bdb5a77.jpg" width="350" />|
+|<img src="https://user-images.githubusercontent.com/56811005/88915598-fc3cca80-d23a-11ea-9d17-3df700084fd2.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/88915642-0c54aa00-d23b-11ea-8ebe-cd1024679ae1.jpg" width="350" />|
 
 <br><br>
 
@@ -44,7 +44,7 @@ Agora é possível pegar livros emprestados de forma digital! Possibilitando aco
 
 |Tema padrão|Tema escuro|
 |-----------|-----------|
-|<img src="https://user-images.githubusercontent.com/56811005/85478407-8c2f8a80-b592-11ea-9de5-1bfb781c92f1.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/85478455-aa958600-b592-11ea-9de3-be77338e0ea2.jpg" width="350" />|
+|<img src="https://user-images.githubusercontent.com/56811005/88915753-36a66780-d23b-11ea-829c-c4925a00b675.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/88915772-445bed00-d23b-11ea-942e-d1a35e53328b.jpg" width="350" />|
 
 <br><br>
 
@@ -53,7 +53,7 @@ Agora é possível pegar livros emprestados de forma digital! Possibilitando aco
 
 |Tema padrão|Tema escuro|
 |-----------|-----------|
-|<img src="https://user-images.githubusercontent.com/56811005/85483035-7de56c80-b59a-11ea-84e7-212be07629a0.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/85483059-89d12e80-b59a-11ea-8ce1-a67edc264121.jpg" width="350" />|
+|<img src="https://user-images.githubusercontent.com/56811005/88916684-e0d2bf00-d23c-11ea-9dd5-6561fbc43c23.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/88916710-ecbe8100-d23c-11ea-860d-dfc56c167195.jpg" width="350" />|
 
 <br><br>
 
@@ -62,7 +62,7 @@ Agora é possível pegar livros emprestados de forma digital! Possibilitando aco
 
 |Tema padrão|Tema escuro|
 |-----------|-----------|
-|<img src="https://user-images.githubusercontent.com/56811005/85483482-40cdaa00-b59b-11ea-9a20-2b5ea7d30fed.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/85483504-4b883f00-b59b-11ea-8710-cd5647bac4f2.jpg" width="350" />|
+|<img src="https://user-images.githubusercontent.com/56811005/88916728-f811ac80-d23c-11ea-92d4-823bf3228569.jpg" width="350" />|<img src="https://user-images.githubusercontent.com/56811005/88916754-02cc4180-d23d-11ea-8d4c-a93e1098ce42.jpg" width="350" />|
 
 <br><br>
 
@@ -93,7 +93,7 @@ Agora é possível pegar livros emprestados de forma digital! Possibilitando aco
 <br><br>
 
 
-#### Consulte o ![Manual do Usuário](https://github.com/Blackoutseeker/EEEP-README/blob/master/Manual%20do%20Usu%C3%A1rio.pdf) para conferir todas as funcionalidades do app.
+#### Consulte o [Manual do Usuário](https://github.com/Blackoutseeker/EEEP-README/raw/master/Manual%20do%20Usu%C3%A1rio.pdf) para conferir todas as funcionalidades do app.
 
 <br><br>
 
